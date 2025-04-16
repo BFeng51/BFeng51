@@ -37,7 +37,7 @@ Much of my professional development work was done on my co-op GitHub account:
 ---
 
 ## 📫 Let’s Connect
-📧 [b3feng@waterloo.ca](mailto:b3feng@waterloo.ca)  
+📧 [b3feng@uwaterloo.ca](mailto:b3feng@uwaterloo.ca)  
 🔗 [LinkedIn](https://www.linkedin.com/in/brady-feng)  
 🌐 [Portfolio](https://brady-feng-engineering-portfolio.b12sites.com)
 
